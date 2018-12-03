@@ -1,0 +1,9 @@
+Package: com.neinzedd9.nightstand
+Name: NightStand
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Adds a "NightStand" mode when your device is in landscape and charging on the lock screen.
+Maintainer: NeinZedd9
+Author: NeinZedd9
+Section: Tweaks
